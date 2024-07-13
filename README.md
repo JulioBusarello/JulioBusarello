@@ -1,6 +1,16 @@
-- 👋 Eae, meu nome é Julio Henrique Busarello
-- 🎈 18 anos.
-- 📖 Atualmente cursando Aprendizagem Industrial em Programador de Sistemas e Técnico em Desenvolvimento de Sistemas.
-- 👨‍💻 Modelador 3D nas horas vagas.
-- 🚗 Carros = 😀
-  
+<code>System.out.println("Hello World! Bem vindo ao meu Github.🤫");</code>
+
+## Sobre Mim
+- <p>👋 Opa, meu nome é Júlio Henrique Busarello.</p>
+- <p>🎈 Tenho 18 anos.</p>
+- <p>📚 Técnico em Desenvolvimento de Sistemas. 1/4</p>
+- <p>🤓 Jovem aprendiz em Programador de Sistemas.</p>
+- <p>🚗 Modelador 3D nas horas vagas.</p>
+
+## Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=java,lua,py,blender,sketchup,ps&theme=dark)](https://skillicons.dev)
+
+## Redes
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](<mailto:juliohenri.busarello@gmail.com>)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/julio_busarello/)
+[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/channels/@me/541992039022329867)
