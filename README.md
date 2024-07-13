@@ -1,7 +1,6 @@
-- 👋 Opa, meu nome é Julio Busarello
+- 👋 Eae, meu nome é Julio Henrique Busarello
 - 🎈 18 anos.
-- 📖 Estou atualmente cursando Aprendizagem Industrial em Programador de Sistemas e Técnico em Desenvolvimento de Sistemas.
-- 🤓 Entusiasta na área de programação.
+- 📖 Atualmente cursando Aprendizagem Industrial em Programador de Sistemas e Técnico em Desenvolvimento de Sistemas.
 - 👨‍💻 Modelador 3D nas horas vagas.
 - 🚗 Carros = 😀
   
