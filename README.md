@@ -2,16 +2,16 @@
 
 ## Sobre Mim
 - <p>👋 Opa, meu nome é Júlio Henrique Busarello.</p>
-- <p>🎈 Tenho 18 anos.</p>
+- <p>🎈 06/2006.</p>
 - <p>📚 Técnico em Desenvolvimento de Sistemas. 2/4</p>
 - <p>🤓 Jovem aprendiz em Programador de Sistemas.</p>
 - <p>🚗 Modelador 3D nas horas vagas.</p>
 
 ## Principais Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,sketchup,ps&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,sketchup,ps,mysql&theme=dark)](https://skillicons.dev)
 
 ## Outras Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=lua,py,blender&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,blender&theme=dark)](https://skillicons.dev)
 
 ## Redes
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](<mailto:juliohenri.busarello@gmail.com>)
