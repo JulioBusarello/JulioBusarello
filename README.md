@@ -8,10 +8,10 @@
 - <p>🚗 Modelador 3D nas horas vagas.</p>
 
 ## Principais Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,sketchup,ps,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,sketchup&theme=dark)](https://skillicons.dev)
 
 ## Outras Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=lua,blender&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,blender,ps,mysql&theme=dark)](https://skillicons.dev)
 
 ## Redes
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](<mailto:juliohenri.busarello@gmail.com>)
