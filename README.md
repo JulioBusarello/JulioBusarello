@@ -7,11 +7,8 @@
 - <p>🤓 Jovem aprendiz em Programador de Sistemas.</p>
 - <p>🚗 Modelador 3D nas horas vagas.</p>
 
-## Principais Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=dark)](https://skillicons.dev)
-
-## Outras Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=lua,blender,ps,sketchup&theme=dark)](https://skillicons.dev)
+## Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,bootstrap,lua&theme=dark)](https://skillicons.dev)
 
 ## Redes
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](<mailto:juliohenri.busarello@gmail.com>)
