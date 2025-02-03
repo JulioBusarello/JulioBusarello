@@ -3,7 +3,7 @@
 ## Sobre Mim
 - <p>👋 Opa, meu nome é Júlio Henrique Busarello.</p>
 - <p>🎈 06/2006.</p>
-- <p>📚 Técnico em Desenvolvimento de Sistemas. 2/4</p>
+- <p>📚 Técnico em Desenvolvimento de Sistemas. 3/4</p>
 - <p>🤓 Jovem aprendiz em Programador de Sistemas.</p>
 - <p>🚗 Modelador 3D nas horas vagas.</p>
 
