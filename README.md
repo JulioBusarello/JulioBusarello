@@ -23,7 +23,7 @@ Sou um(a) desenvolvedor(a), ainda junior, mas com paixão por tecnologia, inova�
 
 ### 🧰 Tecnologias & Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,spring,lua" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,spring,lua" />
 </p>
 
 ### 🌐 Onde me encontrar
