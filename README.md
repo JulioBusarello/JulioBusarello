@@ -15,8 +15,8 @@ Sou um(a) desenvolvedor(a), ainda junior, mas com paixão por tecnologia, inova�
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioBusarello&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioBusarello&layout=compact&langs_count=6&theme=radical&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioBusarello&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=A020F0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioBusarello&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=FFFFFF"/>
 </p>
 
 
@@ -30,7 +30,3 @@ Sou um(a) desenvolvedor(a), ainda junior, mas com paixão por tecnologia, inova�
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat)](https://www.linkedin.com/in/j%C3%BAlio-henrique-busarello-614259212/)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat)](https://www.instagram.com/julio_busarello/)
 - [![E-mail](https://img.shields.io/badge/Email-D44638?style=flat)](mailto:juliohenri.busarello@gmail.com)
-
----
-
-⭐️ Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões ou melhorias!
