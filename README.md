@@ -8,7 +8,7 @@
 ### 🚀 Sobre mim
 Sou um(a) desenvolvedor(a), ainda junior, mas com paixão por tecnologia, inovação e soluções criativas.  
 
-- 💻 Trabalho com: `Java`, `HTML`, `CSS`, `JavaScript`, `SQL`, etc.
+- 💻 Trabalho com: `Java`, `HTML`, `CSS`, `JavaScript`, `SQL`, `Lua`, etc.
 - 📚 Cursando: `Desenvolvimento de Sistemas`.
 - 🚗 Modelador 3D nas horas vagas.
 - ⚡ Sempre buscando aprender e compartilhar conhecimento.
